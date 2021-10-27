@@ -1,0 +1,23 @@
+/*body and p is different for customisation*/
+body{
+	padding left: 50px;
+}
+p{
+	/*targets all paragraphs instead of just one */
+}
+
+.para1{
+color: red;
+padding-left: 50px;
+}
+
+.para2{
+	color: blue;
+	padding-left: 50px;
+}
+
+
+span{
+	color: teal;
+	background-color; yellow;
+}
